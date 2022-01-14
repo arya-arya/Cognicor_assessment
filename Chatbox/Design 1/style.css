@@ -1,0 +1,209 @@
+
+
+.chatBox .card {
+    border-radius: 4px;
+}
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+div {
+    display: block;
+}
+.chatBox .card-header {
+    background: #f9f7fc;
+}
+.header-title {
+    height: 50px;
+}
+.card-header {
+    padding: .5rem 1rem;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+.chatBox {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 400px;
+    margin: 40px;
+    margin-bottom: 0;
+    font-size: 13px;
+    
+
+
+
+
+}
+.para{
+    background: #003e68;
+    color: #fff;
+    width: 378px;
+    height: 59px;
+    float: right;
+    margin-top: -77px;
+    margin-bottom: 1rem;
+    margin-right: 0px;
+    border-radius: 9px;
+    box-sizing: border-box;
+    padding: 20px 1px;
+    border: none;
+    border-radius: 9px 5 0 0px;
+    border-radius: 17px;
+    margin-left: 8px;
+
+
+
+
+
+
+  
+}
+.para1{
+    width: 262px;
+    float: left;
+    margin-bottom: 8rem;
+    margin-left: 10px;
+    opacity: 0.7;
+    border-radius: 9px 5 0 0px;
+    margin-left: -11px;
+    font-family: 'Roboto';
+    font-size: 1em;
+    color: #fff;
+    color: #fff;
+    margin-top: 10px;
+    margin-left: 8px;
+
+}
+
+button{
+    border-radius: 17px;
+    background:#003e68 ;
+    margin-top: 0px;
+    margin-bottom: 1rem;
+    color: #fff;
+
+}
+h2{
+    font-family: 'Roboto';
+    font-size: xx-large;
+    color: rgb(243 241 243);
+    margin-top: 10px;
+    margin-left: 8px;
+
+
+}
+
+.icon{
+    height: 69px;
+    width: 65px;
+    margin-top: 10px;
+    margin-left: 8px;
+}
+.chat-thumb{
+    background: rgb(66, 0, 66);
+    width: 356px;
+    height: 351px;
+    box-sizing: border-box;
+    padding: 14px 15px;
+    margin-top: 81px;
+    margin-bottom: -20rem;
+    margin-left: 4px;
+    border-radius: 12px;
+
+
+
+}
+
+
+
+div {
+    display: block;
+}
+a {
+    color: #0d6efd;
+    text-decoration: underline;
+}
+.chat-content {
+    overflow: auto;
+    height: 300px;
+}
+.card-footer {
+    padding: .5rem 1rem;
+    background-color: rgba(0,0,0,.03);
+    border-top: 1px solid rgba(0,0,0,.125);
+}
+footer {
+    display: block;
+}
+element.style {
+    width: 63%;
+}
+.card-footer:last-child {
+    border-radius: 0 0 calc(.25rem - 1px) calc(.25rem - 1px);
+}
+.publisher {
+    position: relative;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 12px 20px;
+    background-color: #f9fafb
+}
+
+.publisher>*:first-child {
+    margin-left: 0
+}
+
+.publisher>* {
+    margin: 0 8px
+}
+
+.publisher-input {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    border: none;
+    outline: none !important;
+    background-color: transparent
+}
+.publisher-btn {
+    background-color: transparent;
+    border: none;
+    color: #8b95a5;
+    font-size: 16px;
+    cursor: pointer;
+    overflow: -moz-hidden-unscrollable;
+    -webkit-transition: .2s linear;
+    transition: .2s linear
+}
+
+.file-group {
+    position: relative;
+    overflow: hidden
+}
+
+.publisher-btn {
+    background-color: transparent;
+    border: none;
+    color: #cac7c7;
+    font-size: 16px;
+    cursor: pointer;
+    overflow: -moz-hidden-unscrollable;
+    -webkit-transition: .2s linear;
+    transition: .2s linear
+}
+
+
